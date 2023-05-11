@@ -1,4 +1,4 @@
-\ Model dsp
+\ Model dsp_copy
 \ LP format - for model browsing. Use MPS format to capture full model detail.
 Maximize
   alpha[1] + alpha[2] + alpha[3] + alpha[4] + alpha[5] + alpha[6] + alpha[7]
